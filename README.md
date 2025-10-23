@@ -1,41 +1,45 @@
 # 🌍 Language Helper
 
+[🇵🇱 Czytaj po polsku](README_PL.md)
+
 A modern, Streamlit-based app that helps you learn languages through daily flashcards, a built-in translator with TTS, customizable vocabulary, and practice modes.
 
-**Live:** https://language-assistant-damiandatax.streamlit.app  
-**Repo:** https://github.com/damiandatax/language-helper
+**Live App:** [https://language-assistant-damiandatax.streamlit.app](https://language-assistant-damiandatax.streamlit.app)  
+**GitHub Repo:** [https://github.com/damiandatax/language-helper](https://github.com/damiandatax/language-helper)
 
 ---
 
 ## ✨ Features
 
-- **🧠 Flashcard of the Day** — reveal translation on click, mark _known/unknown_, session progress bar, TTS for target language.
-- **🌍 Translator** — PL↔EN/DE/ES/IT, automatic direction based on settings, history of translations, TTS of the result.
-- **🧱 Vocabulary** — add your own words (auto-translate if translation empty), filter, single & bulk delete, per-language word lists.
-- **📝 Exercises** — two modes:
-  - **Choice (ABCD)** — randomized correct + distractors,
-  - **Write** — open input with normalized answer checking.
-- **📊 Dashboard** — totals, streak, progress bars, activity charts (Altair), daily goal overlay line.
-- **⚙️ Settings** — select base language (UI) and learning language, set daily goal.
-- **🎨 Polished UI** — custom sidebar branding with logo, language pill, rounded components.
-- **👑 No Streamlit crown** — clean browser tab title only.
+- 🧠 **Flashcard of the Day** — reveal translation, mark known/unknown, track progress, and listen to pronunciation.  
+- 🌍 **Translator** — PL↔EN/DE/ES/IT with automatic direction and TTS.  
+- 🧱 **Vocabulary Manager** — add, edit, delete, and auto-translate words.  
+- 📝 **Exercises** — train vocabulary via:
+  - Multiple choice (ABCD)
+  - Writing mode  
+- 📊 **Dashboard** — progress charts, streaks, daily goals.  
+- ⚙️ **Settings** — choose base & target languages, set goals.  
+- 🎨 **Modern UI** — custom logo, sidebar, consistent design.  
+- 👑 **No Streamlit crown** — clean browser tab title only.  
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Python 3.10+**
-- **Streamlit** — UI & routing
-- **gTTS** — text-to-speech (mp3)
-- **Altair** — charts
-- **Pandas** — lightweight data handling
-- **Pillow** — images (assets)
-- **Requests** — (used in earlier iterations; optional now)
-- Standard libs: `json`, `pathlib`, `datetime`, `random`, etc.
+| Tool | Purpose |
+|------|----------|
+| **Python 3.10+** | Core language |
+| **Streamlit** | Web app framework |
+| **gTTS** | Text-to-speech |
+| **Altair** | Charts |
+| **Pandas** | Data processing |
+| **Pillow** | Image handling |
+| **Requests** | Translation API |
 
 ---
 
 ## 🗂 Project Structure
+
 
 language-helper/
 ├─ app.py
@@ -124,6 +128,9 @@ Example words.json:
 ☁️ Cloud sync for user data
 
 🛡 License
+
+MIT License
+© 2025 Damian
 
 MIT License
 © 2025 Damian
