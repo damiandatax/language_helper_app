@@ -1,0 +1,66 @@
+{
+  "en": [
+    {
+      "word": "apple",
+      "translation": "jabłko"
+    },
+    {
+      "word": "car",
+      "translation": "samochód"
+    },
+    {
+      "word": "arrive",
+      "translation": "przyjechać"
+    },
+    {
+      "word": "friend",
+      "translation": "przyjaciel"
+    },
+    {
+      "word": "dog",
+      "translation": "pies"
+    },
+    {
+      "word": "cat",
+      "translation": "kot"
+    },
+    {
+      "word": "horse",
+      "translation": "koń"
+    },
+    {
+      "word": "steal",
+      "translation": "ukraść"
+    }
+  ],
+  "de": [
+    {
+      "word": "Haus",
+      "translation": "dom"
+    },
+    {
+      "word": "Hund",
+      "translation": "pies"
+    }
+  ],
+  "es": [
+    {
+      "word": "sol",
+      "translation": "słońce"
+    },
+    {
+      "word": "agua",
+      "translation": "woda"
+    }
+  ],
+  "it": [
+    {
+      "word": "libro",
+      "translation": "książka"
+    },
+    {
+      "word": "ciao",
+      "translation": "cześć"
+    }
+  ]
+}

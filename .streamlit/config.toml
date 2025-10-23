@@ -1,0 +1,7 @@
+[theme]
+base="light"          # "light" albo "dark"
+primaryColor="#6C63FF"
+backgroundColor="#FFFFFF"
+secondaryBackgroundColor="#F6F6FF"
+textColor="#0F1221"
+font="sans serif"     # "sans serif" | "serif" | "monospace"

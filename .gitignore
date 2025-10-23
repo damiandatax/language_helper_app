@@ -1,0 +1,17 @@
+# Ignore venv
+language_helper/
+venv/
+.env/
+
+# Ignore cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Streamlit cache
+.streamlit/cache/
+.streamlit/secrets.toml
+
+# Ignore system files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,38 @@
+{
+  "totals": {
+    "known": 6,
+    "unknown": 0
+  },
+  "history": [
+    {
+      "timestamp": "2025-10-21T04:24:01Z",
+      "word": "car",
+      "result": "known"
+    },
+    {
+      "timestamp": "2025-10-21T04:31:37Z",
+      "word": "apple",
+      "result": "known"
+    },
+    {
+      "timestamp": "2025-10-21T04:31:58Z",
+      "word": " mother",
+      "result": "known"
+    },
+    {
+      "timestamp": "2025-10-22T03:43:42Z",
+      "word": "horse",
+      "result": "known"
+    },
+    {
+      "timestamp": "2025-10-23T05:00:56Z",
+      "word": "cat",
+      "result": "known"
+    },
+    {
+      "timestamp": "2025-10-23T05:01:05Z",
+      "word": "dog",
+      "result": "known"
+    }
+  ]
+}
