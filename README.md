@@ -9,7 +9,7 @@
 A modern, Streamlit-based app that helps you learn languages through daily flashcards, a built-in translator with TTS, customizable vocabulary, and practice modes.
 
 **Live App:** [https://language-assistant-damiandatax.streamlit.app](https://language-assistant-damiandatax.streamlit.app)  
-**GitHub Repo:** [https://github.com/damiandatax/language-helper](https://github.com/damiandatax/language-helper)
+**GitHub Repo:** [https://github.com/damiandatax/language-helper_app](https://github.com/damiandatax/language-helper_app)
 
 ---
 
@@ -44,23 +44,22 @@ A modern, Streamlit-based app that helps you learn languages through daily flash
 
 ## 🗂 Project Structure
 
-
+```text
 language-helper/
 ├─ app.py
 ├─ src/
-│ ├─ ui.py
-│ ├─ storage.py
-│ ├─ translator.py
-│ └─ i18n.py
+│  ├─ ui.py
+│  ├─ storage.py
+│  ├─ translator.py
+│  └─ i18n.py
 ├─ data/
-│ ├─ words.json
-│ ├─ progress.json
-│ └─ translations.json
+│  ├─ words.json
+│  ├─ progress.json
+│  └─ translations.json
 ├─ assets/
-│ └─ logo_sidebar.png
+│  └─ logo_sidebar.png
 ├─ requirements.txt
-└─ README.md
-
+└─ README_PL.md
 
 ---
 
