@@ -9,7 +9,7 @@
 Nowoczesna aplikacja do nauki języków stworzona w **Python + Streamlit**, która łączy fiszki, tłumacz z wymową, naukę słówek i ćwiczenia w jednym miejscu.
 
 **Wersja online:** [https://language-assistant-damiandatax.streamlit.app](https://language-assistant-damiandatax.streamlit.app)  
-**Repozytorium GitHub:** [https://github.com/damiandatax/language-helper_app](https://github.com/damiandatax/language-helper_app)
+**Repozytorium GitHub:** [https://github.com/damiandatax/language_helper_app](https://github.com/damiandatax/language_helper_app)
 
 ---
 

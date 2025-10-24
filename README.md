@@ -9,7 +9,7 @@
 A modern, Streamlit-based app that helps you learn languages through daily flashcards, a built-in translator with TTS, customizable vocabulary, and practice modes.
 
 **Live App:** [https://language-assistant-damiandatax.streamlit.app](https://language-assistant-damiandatax.streamlit.app)  
-**GitHub Repo:** [https://github.com/damiandatax/language-helper_app](https://github.com/damiandatax/language-helper_app)
+**GitHub Repo:** [https://github.com/damiandatax/language_helper_app](https://github.com/damiandatax/language_helper_app)
 
 ---
 
