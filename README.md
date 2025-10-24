@@ -60,25 +60,28 @@ language-helper/
 │  └─ logo_sidebar.png
 ├─ requirements.txt
 └─ README_PL.md
-
+```
 ---
 
 ## 🚀 Run Locally
 
 ```bash
-# 1) Create & activate venv (Windows)
+# 1️⃣ Create & activate venv (Windows)
 python -m venv .venv
 .venv\Scripts\activate
 
-# 2) Install dependencies
+# 2️⃣ Install dependencies
 pip install -r requirements.txt
 
-# 3) Start app
+# 3️⃣ Start app
 streamlit run app.py
 
-Then open http://localhost:8501
+# Then open:
+# http://localhost:8501
+```
+---
 
-☁️ Deploy on Streamlit Cloud
+## ☁️ Deploy on Streamlit Cloud
 
 Push this repo to GitHub.
 
@@ -94,12 +97,14 @@ Main file: app.py
 
 Subdomain: language-assistant-damiandatax
 
-Click Deploy 🚀
+**Click Deploy** 🚀
 
 Your app will be live at:
 👉 https://language-assistant-damiandatax.streamlit.app
 
-📦 Data Files
+---
+
+## 📦 Data Files
 
 data/words.json — vocabulary lists per language.
 
@@ -118,7 +123,9 @@ Example words.json:
   "it": []
 }
 
-🗺 Roadmap
+---
+
+## 🗺 Roadmap
 
 🔁 Smart spaced repetition (SRS)
 
@@ -130,21 +137,22 @@ Example words.json:
 
 ☁️ Cloud sync for user data
 
-🛡 License
+---
+
+## 🛡 License
 
 MIT License
 © 2025 Damian
 
-MIT License
-© 2025 Damian
+---
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 
-Streamlit
+- Streamlit
  for the web framework
 
-gTTS
+- gTTS
  for text-to-speech
 
-Altair
+- Altair
  for visualization

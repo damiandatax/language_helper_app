@@ -60,7 +60,7 @@ language-helper/
 │  └─ logo_sidebar.png
 ├─ requirements.txt
 └─ README_PL.md
-
+```
 ---
 
 ## 🚀 Uruchomienie lokalne
@@ -77,8 +77,10 @@ pip install -r requirements.txt
 streamlit run app.py
 
 Następnie otwórz w przeglądarce: http://localhost:8501
+```
+---
 
-☁️ Publikacja w Streamlit Cloud
+## ☁️ Publikacja w Streamlit Cloud
 
 Wypchnij repozytorium do GitHuba.
 
@@ -94,12 +96,14 @@ Main file: app.py
 
 Subdomain: language-assistant-damiandatax
 
-Kliknij Deploy 🚀
+**Kliknij Deploy** 🚀
 
 Aplikacja będzie dostępna pod adresem:
 👉 https://language-assistant-damiandatax.streamlit.app
 
-📦 Pliki danych
+---
+
+## 📦 Pliki danych
 
 data/words.json — lista słówek dla każdego języka
 
@@ -115,7 +119,9 @@ Przykład words.json:
   ]
 }
 
-🗺 Plan rozwoju
+---
+
+## 🗺 Plan rozwoju
 
 🔁 System powtórek (SRS)
 
@@ -127,18 +133,22 @@ Przykład words.json:
 
 🌙 Tryb ciemny
 
-🛡 Licencja
+---
+
+## 🛡 Licencja
 
 MIT License
 © 2025 Damian
 
-🙌 Podziękowania
+---
 
-Streamlit
+## 🙌 Podziękowania
+
+- Streamlit
  — framework do aplikacji webowych
 
-gTTS
+- gTTS
  — synteza mowy
 
-Altair
+- Altair
  — wizualizacja danych
