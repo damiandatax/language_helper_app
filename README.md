@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo_sidebar.png" alt="Language Helper Logo" width="320"/>
+</p>
+
 # 🌍 Language Helper
 
 [🇵🇱 Czytaj po polsku](README_PL.md)
